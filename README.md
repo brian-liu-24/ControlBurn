@@ -1,2 +1,2 @@
 # ControlBurn
-Feature Selection via Sparse Forests. Notebooks and data to reproduce experiments. Most data available through the PMLB benchmarking package in Python (https://github.com/EpistasisLab/pmlb). Additional datasets are included in this repo as csv.
+Feature Selection via Sparse Forests. Notebooks and data to reproduce experiments. The majority of the data is available through the PMLB benchmarking package in Python (https://github.com/EpistasisLab/pmlb) or through a URL import from UCI MLR (https://archive.ics.uci.edu/ml/index.php). The functions to load the data are included in the Python notebooks. One additional dataset is included as a csv. 
